@@ -1,0 +1,10 @@
+wallet
+!wallet/.gitkeep
+*.tar.gz
+vendor/
+bin/
+*.log
+node_modules/
+.vscode/
+.idea/
+__pycache__/
